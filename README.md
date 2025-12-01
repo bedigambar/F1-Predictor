@@ -18,6 +18,8 @@ An advanced machine learning-powered dashboard for predicting Formula 1 race out
 
 [**Try it live on Streamlit Cloud**](https://f1-driver-predictor.streamlit.app/)
 
+> **Note**: Streamlit Cloud deployments can take 8-12 minutes on first launch due to installing heavy ML dependencies (XGBoost, FastF1, etc.). If you want immediate access, consider running it locally using the installation instructions below.
+
 ## 📊 Model Performance
 
 - **Qualifying MAE**: 3.55 positions
