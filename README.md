@@ -14,11 +14,17 @@ An advanced machine learning-powered dashboard for predicting Formula 1 race out
 - **Interactive Visualizations**: Position progression charts and feature importance analysis
 - **Historical Statistics**: Circuit-specific data and trends
 
-## 🚀 Live Demo
+## 🚫 Deployment Note
 
-[**Try it live on Streamlit Cloud**](https://f1-driver-predictor.streamlit.app/)
+This application is **not currently deployed** on Streamlit Cloud due to resource limitations with the heavy ML dependencies (XGBoost, FastF1, scikit-learn) and large model files. 
 
-> **Note**: Streamlit Cloud deployments can take 8-12 minutes on first launch due to installing heavy ML dependencies (XGBoost, FastF1, etc.). If you want immediate access, consider running it locally using the installation instructions below.
+**To run the app**, please follow the local installation instructions below. The setup is straightforward and takes only a few minutes!
+
+## 🎥 Demo Video
+
+Check out the application in action:
+
+
 
 ## 📊 Model Performance
 
