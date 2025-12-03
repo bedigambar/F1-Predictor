@@ -86,7 +86,6 @@ F1 Project/
 ├── dashboard/
 │   └── app.py              # Streamlit dashboard
 ├── data/
-│   ├── raw/                # Raw F1 data
 │   └── processed/          # Processed training data
 ├── models/                 # Trained ML models (.pkl files)
 ├── notebooks/
